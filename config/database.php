@@ -9,7 +9,7 @@
 $db_host = "127.0.0.1";    // Localhost server IP
 $db_user = "root";         // Default WAMPServer MySQL username
 $db_pass = "";             // Default WAMPServer MySQL password (empty)
-$db_name = "campus_connect"; // Project database name
+$db_name = "collage_connect"; // Project database name
 $db_port = 3306;           // Default MySQL port
 
 // Create connection using MySQLi extension

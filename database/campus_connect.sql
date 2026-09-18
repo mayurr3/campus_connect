@@ -2,12 +2,11 @@
 -- Campus Connect — College Event Management System
 -- Database Name: campus_connect
 -- Technology: MySQL / phpMyAdmin / WAMPServer
--- Project: BCA College Project (25 Marks)
 -- ==========================================================
 
 -- 1. Create Database if it does not exist
-CREATE DATABASE IF NOT EXISTS `campus_connect` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
-USE `campus_connect`;
+CREATE DATABASE IF NOT EXISTS `collage_connect` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+USE `collage_connect`;
 
 -- ----------------------------------------------------------
 -- Table 1: USERS (Students)
